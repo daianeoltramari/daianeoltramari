@@ -3,7 +3,7 @@
 - 👩‍💻 Hoje trabalho como Analista de sistemas.
 - 👩‍🎓 Estudando Front end.
 - 😊 Pronomes: Ela/Dela.
-- 📫 Contata-me no email: daianeoltramari@gmail.com
+- 📫 Contata-me nesse email: daianeoltramari@gmail.com
 
 <div>
   <a href="https://github.com/daianeoltramari">
