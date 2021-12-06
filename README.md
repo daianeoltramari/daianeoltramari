@@ -16,7 +16,7 @@
   <img align="center" alt="Daiane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daiane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daiane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Daiane-yoda" src="https://www.bing.com/images/search?view=detailV2&ccid=FqRsnpSq&id=C82822C00CEDEBD96D52B8BFA6997BCAD826D6DE&thid=OIP.FqRsnpSq7bGdNUb83BWZGwHaKe&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f7f%2f64%2f2e%2f7f642e6dd320d30580495390713f9839.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.16a46c9e94aaedb19d3546fcdc15991b%3frik%3d3tYm2Mp7maa%252fuA%26pid%3dImgRaw%26r%3d0&exph=6000&expw=4242&q=ravena&simid=608034049208435585&FORM=IRPRST&ck=FFBB766A06CD9B5609CD84220E516C3D&selectedIndex=4&ajaxhist=0&ajaxserp=0">
+  <img align="right" alt="Daiane-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
