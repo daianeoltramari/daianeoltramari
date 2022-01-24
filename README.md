@@ -1,6 +1,5 @@
 ## Olá, Eu sou a Daiane Oltramari 👋
 
-- 👩‍💻 Hoje trabalho como Analista de sistemas.
 - 👩‍🎓 Estudando Front end.
 - 😊 Pronomes: Ela/Dela.
 - 📫 Contata-me neste email: daianeoltramari@gmail.com
